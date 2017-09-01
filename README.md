@@ -1,0 +1,2 @@
+# Genetic-Algorithm
+Genetic Algorithm is a concept used in machine learning and simulation. It consists of using 2 "parents" and then pseudo-randomly choosing x-amount of traits from each parent and using those variables to create a new object, which then becomes a parent with another counterpart to create a new object, and it does this until it reaches a “best fitness threshold". It's used to process complex problems such as the eight queens problem, with this algorithm the machine calculates the possibilities and picks the one with the best results.
